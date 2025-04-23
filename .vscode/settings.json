@@ -1,0 +1,7 @@
+{
+    "editor.wordWrap": "on",
+    "diffEditor.wordWrap": "on",
+    "notebook.output.wordWrap": true,
+    "chat.editor.wordWrap": "on",
+    "chat.editor.fontSize": 12
+}
